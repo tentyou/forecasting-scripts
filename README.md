@@ -5,7 +5,7 @@
 + 简单线性回归
 + 多项式回归
 ## 使用教程
-1. 将压缩包解压至合适位置
+1. 下载[Source Code](https://github.com/tentyou/forecasting-scripts/releases)，将压缩包解压至合适位置
 2. 安装Python，注意在安装时选择将Python加入系统环境中（Add Python to environment variables）
 3. 右键当前目录，选择在当前目录打开终端/CMD/Powershell，输入：```pip install -r requirements.txt```
 4. 安装完依赖库后，即可使用脚本
